@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Gender,MaritalStatus,BirthDate,Position,StartDate,Salary,Currency,Email,PhoneNumber,Department,EmploymentType,EndDate,TerminationReason,Address,ContractType
+1,Brenda,Anderson,Female,divorced,1969-03-06,Developer,2020-02-09,16879.79,PLN,kyle94@example.net,+1-257-494-2957x330,Finance,pół etatu,,,"49180 Reed Mountains Apt. 223
+Port Brandonchester, FL 89522",Umowa o dzieło
+2,Victoria,Watkins,Female,single,1999-04-29,Consultant,2023-01-23,10696.99,USD,fieldsroy@example.com,+1-626-249-2314x299,Sales,kontrakt,,,"3705 Smith Underpass Suite 023
+Scottbury, CT 40007",Umowa B2B
+3,Cindy,Kidd,Female,divorced,1997-07-20,Architect,2021-12-09,25986.72,EUR,jennifer59@example.net,527-810-5903x6042,IT,kontrakt,2022-02-06,Resignation,"18260 Mitchell Drive
+Carrietown, NV 17436",Umowa o pracę
+4,Jerry,Warner,Male,widowed,1963-03-01,Accountant,2022-08-11,4753.69,USD,greenryan@example.net,+1-585-976-1061,IT,pełny etat,,,"0865 Jill Fall Suite 279
+Millershire, MS 69547",Umowa o pracę
+5,Elizabeth,Reed,Female,married,1985-03-27,Operations Manager,2023-11-15,10160.59,PLN,lphillips@example.org,525.928.2851x15001,Operations,na godziny,,,"74516 Miguel Flat Apt. 078
+Lewisshire, NY 21081",Umowa B2B
+6,Brooke,Pearson,Female,single,1960-01-04,Sales Representative,2022-04-16,26708.5,GBP,fjohnson@example.com,674.791.9847,Logistics,kontrakt,2022-05-06,Layoff,"8857 Brennan Pine
+Sparksfurt, TX 41570",Umowa zlecenie
+7,Amy,Cooper,Female,divorced,1987-01-13,Project Manager,2023-03-20,25073.37,GBP,hrose@example.com,308.963.5251x215,Engineering,pół etatu,,,"PSC 4142, Box 9738
+APO AA 50102",Umowa o pracę
+8,Renee,Weaver,Female,single,2003-03-15,Accountant,2023-10-22,20290.91,PLN,kimberly55@example.org,455.544.5740x22698,IT,pół etatu,,,"0142 Ian Ports
+North Stephaniestad, DE 47157",Umowa o dzieło
+9,Dennis,Collins,Male,widowed,1977-07-08,Project Manager,2021-03-26,26797.55,PLN,chadjones@example.org,272.563.1827,Support,pełny etat,,,"3917 Alvarez Lake Apt. 077
+Lake Scottchester, PR 43298",Umowa o dzieło
+10,Kimberly,Owens,Female,divorced,1975-07-09,HR Specialist,2021-06-10,17432.58,PLN,gpark@example.org,2852143834,Logistics,pół etatu,2023-04-18,Retirement,"USNV Black
+FPO AE 24622",Umowa o dzieło
+11,Brooke,Johnson,Female,married,1977-08-07,Project Manager,2022-08-23,25210.59,USD,dustin23@example.com,979-368-5896,Finance,pół etatu,,,"658 Shelly Track
+East Andrea, ND 75098",Umowa zlecenie
+12,Timothy,Tanner,Male,single,1969-09-29,Developer,2022-03-14,27792.17,PLN,seanmarshall@example.com,224-942-4097x8566,Engineering,pół etatu,2023-07-20,Resignation,"146 Omar Inlet Suite 562
+Garciamouth, NV 23842",Umowa B2B
+13,Mckenzie,Gross,Female,married,1986-05-08,Technician,2021-03-26,26317.13,GBP,fishercindy@example.org,208-707-8024,Marketing,pełny etat,,,"23826 Margaret Route
+Johnchester, AR 73539",Umowa o dzieło
+14,Valerie,Benton,Female,widowed,1981-04-28,Developer,2021-03-12,11804.05,GBP,hkrueger@example.com,649.696.2371x2713,HR,kontrakt,,,"55676 James Run
+Geraldbury, MD 16252",Umowa o pracę
+15,Karen,Munoz,Female,single,1984-03-25,Product Owner,2024-05-12,17740.22,EUR,smithryan@example.com,305.537.4474x09384,HR,na godziny,2024-06-06,Retirement,"966 Sandoval Viaduct
+New Maryport, MH 06282",Umowa B2B
+16,Allen,Webster,Male,married,1969-03-12,Operations Manager,2022-08-11,22129.16,USD,jacobgonzalez@example.net,534-567-5811,HR,kontrakt,2023-08-03,Retirement,"5551 Bender Summit
+West Brian, MA 45119",Umowa o dzieło
+17,Sandra,Moran,Female,single,1977-03-09,Sales Representative,2024-03-03,13550.37,PLN,tammychen@example.net,(327)605-6597x7479,Logistics,kontrakt,2024-05-01,Resignation,"22558 Michael Point
+East Jenniferberg, KY 68731",Umowa o pracę
+18,Paul,Hicks,Male,divorced,1968-12-13,Architect,2022-06-20,3180.49,PLN,dustin85@example.com,7702336975,HR,pół etatu,,,"08386 Jones Fall Apt. 085
+Phillipsville, FM 13061",Umowa o dzieło
+19,Jermaine,Patterson,Male,single,1992-05-28,Operations Manager,2023-07-05,13726.81,EUR,hurstmark@example.com,3927280604,Engineering,na godziny,,,"333 Wade Villages
+Reyesbury, HI 40375",Umowa o dzieło
+20,Michael,Sparks,Male,divorced,2002-09-20,Accountant,2021-10-02,19475.48,USD,stephanietaylor@example.com,+1-613-214-0145x83732,HR,na godziny,,,"617 Price Crossroad Apt. 803
+Andreaview, HI 86356",Umowa zlecenie
+21,Elizabeth,Lowe,Female,widowed,1997-05-22,HR Specialist,2020-02-08,14572.33,PLN,yosborne@example.net,+1-597-557-2848,Support,pół etatu,,,"47059 Douglas Island
+Samanthaburgh, MN 68387",Umowa B2B
+22,Elizabeth,Lopez,Female,married,1987-07-17,Administrator,2023-12-12,19971.84,USD,richardswilliam@example.net,(654)874-1138,Engineering,pełny etat,2024-06-17,Layoff,"2762 Roberts Mount Apt. 030
+North Jamesstad, IA 44428",Umowa zlecenie
+23,Timothy,Reyes,Male,widowed,1964-10-10,Administrator,2020-09-17,10773.63,PLN,sara18@example.com,(978)545-0585x737,Legal,pełny etat,,,"8045 Jones Haven Apt. 784
+North Keithmouth, MP 95841",Umowa B2B
+24,Debbie,Meadows,Female,widowed,1959-04-09,Project Manager,2024-03-16,27556.51,PLN,byrdlindsey@example.org,001-302-874-9719x4399,Engineering,kontrakt,,,"0227 Robert Union Suite 157
+Kellyburgh, GA 46093",Umowa zlecenie
+25,Martha,Duran,Female,married,1962-02-06,HR Specialist,2022-07-04,14417.14,EUR,ztucker@example.net,(589)902-5399x7639,Operations,kontrakt,2024-09-27,Termination for cause,"Unit 9370 Box 5680
+DPO AE 11317",Umowa B2B
+26,Sophia,Johnson,Female,widowed,1969-02-15,Product Owner,2020-08-17,24550.67,PLN,emilyheath@example.net,+1-320-669-5849,Support,pół etatu,,,"3609 Ramirez Branch Apt. 323
+South Josephborough, MH 75257",Umowa B2B
+27,Joseph,Cantrell,Male,widowed,1959-08-03,Project Manager,2022-07-05,25805.12,EUR,iday@example.org,(943)964-3272x99594,HR,kontrakt,2023-11-18,Termination for cause,"267 Williams Court Apt. 400
+South Jason, AS 47945",Umowa B2B
+28,Adam,Davis,Male,married,1963-10-15,Operations Manager,2024-04-14,29868.46,EUR,paigewilson@example.net,3879150655,Marketing,pełny etat,,,"USS Rasmussen
+FPO AP 60162",Umowa o pracę
+29,Nicole,Duncan,Female,widowed,1971-11-11,Architect,2022-10-05,29175.8,USD,martineztodd@example.com,510.802.8879x232,Finance,kontrakt,2022-12-16,Retirement,"008 Burton Walk Suite 342
+Shermanbury, AZ 21413",Umowa o pracę
+30,Lauren,Bates,Female,divorced,2003-05-21,Engineer,2022-02-27,26615.26,PLN,jeffreydeleon@example.net,001-369-345-2429x12182,Support,pełny etat,,,"14288 Hoffman Neck
+Lake Crystalmouth, MP 16195",Umowa B2B
+31,Richard,Hogan,Male,widowed,2004-03-02,Sales Representative,2020-01-20,16678.46,GBP,phillipgonzalez@example.net,(492)803-4598x91974,Logistics,kontrakt,,,"8452 Davis Circles Suite 511
+Lindaport, GU 25781",Umowa o pracę
+32,Kathryn,Duran,Female,married,1998-04-15,Manager,2024-10-07,18458.7,USD,jthompson@example.net,001-856-343-2999x759,Sales,pół etatu,,,"108 Rebecca Plains Apt. 087
+East Lisaville, GU 37650",Umowa o pracę
+33,William,Howell,Male,married,1977-12-21,Accountant,2023-11-01,8369.92,PLN,moralesclayton@example.org,001-247-677-8184x4301,Legal,pełny etat,2024-07-13,Retirement,"1722 Gross Plains Apt. 987
+Simsfurt, NY 41773",Umowa o dzieło
+34,Brooke,Rojas,Female,married,1963-07-14,Sales Representative,2022-07-04,21950.43,USD,dkelley@example.org,528-398-1951x8085,Finance,pełny etat,,,"8657 Brittany Crest
+Kennedymouth, CO 32099",Umowa B2B
+35,James,Kennedy,Male,single,1997-06-09,Consultant,2023-04-12,7815.06,PLN,hulljohn@example.com,670-409-9551,Support,pełny etat,2024-06-19,Resignation,"956 Catherine Islands Apt. 376
+New Nicoleside, MA 14293",Umowa B2B
+36,Alison,Alvarado,Female,single,1985-05-04,Accountant,2022-07-30,26766.78,USD,james96@example.com,400.593.2028x6460,Operations,pół etatu,2023-04-30,Layoff,"30994 Sheila Road Suite 083
+Port Brianna, MS 26598",Umowa o dzieło
+37,Dalton,Bradshaw,Male,widowed,1984-10-28,Developer,2023-04-20,5195.38,PLN,kellynicholas@example.net,001-775-206-8675x931,HR,na godziny,2024-08-10,Termination for cause,"898 Mccoy Village Suite 755
+West Kennethstad, VI 01377",Umowa o dzieło
+38,Nathaniel,Brown,Male,divorced,1975-03-27,Engineer,2023-11-17,29869.37,USD,hannahweiss@example.com,885.824.5824x046,IT,pół etatu,,,"239 Thompson Lane Suite 019
+Zacharyshire, PA 71741",Umowa o dzieło
+39,Christian,Bonilla,Male,widowed,2000-04-25,Developer,2021-08-13,14909.62,USD,fhoward@example.com,+1-430-354-2059x763,Sales,pół etatu,2024-03-02,Resignation,"PSC 4528, Box 6362
+APO AA 19681",Umowa zlecenie
+40,Edward,Benjamin,Male,widowed,1983-10-15,Architect,2022-11-08,16671.02,PLN,zmorris@example.net,615.751.4765x139,Engineering,kontrakt,,,"0583 Taylor Forges Suite 970
+Rebeccaville, NH 28197",Umowa B2B
+41,Christopher,Turner,Male,married,1973-07-15,Administrator,2024-08-10,26060.52,PLN,cheryl40@example.net,(380)443-5942x090,Engineering,kontrakt,2024-09-13,Layoff,"85740 Christina Parks
+New Tiffanytown, OK 97734",Umowa o pracę
+42,Elizabeth,Hughes,Female,married,1976-05-11,Product Owner,2021-06-26,10867.25,GBP,ramirezalejandro@example.org,253-422-5261x6408,Finance,pół etatu,,,"922 Miller Parkways
+Port David, MI 78583",Umowa o pracę
+43,Theresa,Simmons,Female,married,1980-07-07,Designer,2020-09-30,8229.32,USD,william07@example.org,8549648558,Operations,pół etatu,,,"69464 Anne Harbors
+Port Wyattchester, NM 05326",Umowa zlecenie
+44,John,Young,Male,divorced,1968-06-16,Operations Manager,2023-07-05,19257.12,EUR,robinsonkatherine@example.org,+1-382-426-0308,Operations,kontrakt,2023-08-06,Resignation,"5301 Jamie Expressway Suite 820
+Hunterburgh, AK 67769",Umowa B2B
+45,George,Barnes,Male,married,1994-11-20,Engineer,2022-05-14,9738.03,EUR,heather45@example.net,(683)713-3320x056,Sales,kontrakt,,,"87179 Krista Extension Suite 910
+North Nicole, OH 29021",Umowa o dzieło
+46,Joshua,Salinas,Male,married,1978-10-20,Operations Manager,2024-06-20,12991.44,PLN,michelle25@example.net,001-561-498-8063,Engineering,pół etatu,,,"989 Dixon Plain Apt. 434
+North Deborah, WI 47975",Umowa o pracę
+47,Angela,Rivera,Female,single,1962-09-15,Analyst,2020-04-27,22578.44,PLN,pfinley@example.net,811-590-4415x58912,HR,na godziny,2022-01-10,Layoff,"8679 Orr Mill
+South Jeanetteville, WA 34259",Umowa o dzieło
+48,Curtis,Lee,Male,married,1971-11-03,Operations Manager,2021-08-15,11105.62,EUR,iturner@example.org,+1-974-234-4913,HR,pełny etat,,,"65568 Levy Street Apt. 775
+Port Zacharyview, FM 43315",Umowa zlecenie
+49,Amy,Gomez,Female,widowed,1979-07-06,Project Manager,2023-01-27,22893.92,EUR,denise76@example.com,+1-468-285-4935x9336,Finance,kontrakt,2024-06-09,Termination for cause,"870 French Light Suite 282
+Donnaland, NY 86242",Umowa zlecenie
+50,Devin,Weaver,Male,single,1987-07-17,Architect,2023-09-23,29057.16,USD,katherinejohnson@example.net,(279)999-8516x39873,Finance,pół etatu,2024-09-14,Resignation,"383 Phillip Oval
+Port Paulbury, LA 39511",Umowa zlecenie
